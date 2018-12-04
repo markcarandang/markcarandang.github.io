@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6656Ug6dgQo_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Lesson 5</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6656Ug6dgQo_course_id/6jreP0eAYJk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Lesson 5 </name>
+			<description lang="und">Lesson 5 </description>
+		</activity>
+		<activity id="http://6656Ug6dgQo_course_id/69yXCXWBbM7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Health Conscious 1.1 </name>
+			<description lang="und">The Health Conscious 1.1 </description>
+		</activity>
+		<activity id="http://6656Ug6dgQo_course_id/6q0fdHui3OO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Chinese Consumer 1.1 </name>
+			<description lang="und">The Chinese Consumer 1.1 </description>
+		</activity>
+		<activity id="http://6656Ug6dgQo_course_id/6TxbyHcYTYJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The Millennial 1.1 </name>
+			<description lang="und">The Millennial 1.1 </description>
+		</activity>
+		<activity id="http://6656Ug6dgQo_course_id/6JGvhilsGp4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Savvy Drinker 1.1 </name>
+			<description lang="und">Savvy Drinker 1.1 </description>
+		</activity>
+		<activity id="http://6656Ug6dgQo_course_id/5lBDFjyFhtC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Businessman 1.1 </name>
+			<description lang="und">Businessman 1.1 </description>
+		</activity>
+	</activities>
+</tincan>

@@ -1,0 +1,189 @@
+{
+  "version": "3.19.16600.0",
+  "scenes": [
+    {
+      "title": "Interactive 2"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5yPDOnuGgWR",
+      "title": "Intro ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6hUA8iXZqVY",
+      "title": "Completion page",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6rYDaKdeHFX",
+      "title": "Question  1.1",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "61zM7POfNNi",
+      "title": "Question  2.1",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5ciM9NoaWP8",
+      "title": "Question  3.1",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6NXwWuMvJ0l",
+      "title": "Question  4.1",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6L6KhmW79aW",
+      "title": "Question  3.2",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5WIKj4pdsef",
+      "title": "Question  4.2",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6lrlDpe791Q",
+      "title": "Question  4.4",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6TEcMnWg66j",
+      "title": "Question  3.4",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6fu0Q8L52C1",
+      "title": "Question  3.5",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "6emLvo78wbv",
+      "title": "Question  4.5",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6jXoOlnmDY9",
+      "title": "Question  3.6",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "6UgQeJu7eMr",
+      "title": "Question  4.6",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "6NETWttKpb7",
+      "title": "Question  2.6",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "5t5pPjJc2Hz",
+      "title": "Question  2.3",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "6PvlDJckrr6",
+      "title": "Question  3.3",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "5pIqeVqjin4",
+      "title": "Question  4.3",
+      "scene_index": "1.18"
+    },
+    {
+      "id": "6SUTGA4xg5V",
+      "title": "Customer1",
+      "scene_index": "1.19"
+    },
+    {
+      "id": "6qGEma8cJ2x",
+      "title": "Customer2",
+      "scene_index": "1.20"
+    },
+    {
+      "id": "6noeqIY25w5",
+      "title": "Customer3",
+      "scene_index": "1.21"
+    },
+    {
+      "id": "65rZtWzmNeu",
+      "title": "Customer4",
+      "scene_index": "1.22"
+    },
+    {
+      "id": "6KrV5huGmxC",
+      "title": "Question  1.2",
+      "scene_index": "1.23"
+    },
+    {
+      "id": "6rDDkA1IzdZ",
+      "title": "Question  2.2",
+      "scene_index": "1.24"
+    },
+    {
+      "id": "6cRSPYXhaXM",
+      "title": "Question  1.3",
+      "scene_index": "1.25"
+    },
+    {
+      "id": "6Y00NxIxLjH",
+      "title": "Question  1.4",
+      "scene_index": "1.26"
+    },
+    {
+      "id": "6amiDjvLuND",
+      "title": "Question  2.4",
+      "scene_index": "1.27"
+    },
+    {
+      "id": "5p3hKMiyemN",
+      "title": "Question  1.5",
+      "scene_index": "1.28"
+    },
+    {
+      "id": "6cw43UoBFcR",
+      "title": "Question  2.5",
+      "scene_index": "1.29"
+    },
+    {
+      "id": "6oBuBfIdVI9",
+      "title": "Question  1.6",
+      "scene_index": "1.30"
+    },
+    {
+      "id": "5pKLQyYPz1T",
+      "title": "Customer1Overview",
+      "scene_index": "1.31"
+    },
+    {
+      "id": "6qhfrZNix1K",
+      "title": "Customer4Overview",
+      "scene_index": "1.32"
+    },
+    {
+      "id": "6dZrg0uJltB",
+      "title": "Customer2Overview",
+      "scene_index": "1.33"
+    },
+    {
+      "id": "5V8OLWZuoqA",
+      "title": "Customer3Overview",
+      "scene_index": "1.34"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

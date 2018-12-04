@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5giXehTFNLD_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Lesson 6 V2</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5yPDOnuGgWR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Intro </name>
+			<description lang="und">Intro </description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6hUA8iXZqVY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Completion page</name>
+			<description lang="und">Completion page</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6rYDaKdeHFX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  1.1</name>
+			<description lang="und">Question  1.1</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/61zM7POfNNi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  2.1</name>
+			<description lang="und">Question  2.1</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5ciM9NoaWP8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  3.1</name>
+			<description lang="und">Question  3.1</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6NXwWuMvJ0l" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  4.1</name>
+			<description lang="und">Question  4.1</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6L6KhmW79aW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  3.2</name>
+			<description lang="und">Question  3.2</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5WIKj4pdsef" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  4.2</name>
+			<description lang="und">Question  4.2</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6lrlDpe791Q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  4.4</name>
+			<description lang="und">Question  4.4</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6TEcMnWg66j" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  3.4</name>
+			<description lang="und">Question  3.4</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6fu0Q8L52C1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  3.5</name>
+			<description lang="und">Question  3.5</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6emLvo78wbv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  4.5</name>
+			<description lang="und">Question  4.5</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6jXoOlnmDY9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  3.6</name>
+			<description lang="und">Question  3.6</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6UgQeJu7eMr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  4.6</name>
+			<description lang="und">Question  4.6</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6NETWttKpb7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  2.6</name>
+			<description lang="und">Question  2.6</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5t5pPjJc2Hz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  2.3</name>
+			<description lang="und">Question  2.3</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6PvlDJckrr6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  3.3</name>
+			<description lang="und">Question  3.3</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5pIqeVqjin4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  4.3</name>
+			<description lang="und">Question  4.3</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6SUTGA4xg5V" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer1</name>
+			<description lang="und">Customer1</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6qGEma8cJ2x" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer2</name>
+			<description lang="und">Customer2</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6noeqIY25w5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer3</name>
+			<description lang="und">Customer3</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/65rZtWzmNeu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer4</name>
+			<description lang="und">Customer4</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6KrV5huGmxC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  1.2</name>
+			<description lang="und">Question  1.2</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6rDDkA1IzdZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  2.2</name>
+			<description lang="und">Question  2.2</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6cRSPYXhaXM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  1.3</name>
+			<description lang="und">Question  1.3</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6Y00NxIxLjH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  1.4</name>
+			<description lang="und">Question  1.4</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6amiDjvLuND" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  2.4</name>
+			<description lang="und">Question  2.4</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5p3hKMiyemN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  1.5</name>
+			<description lang="und">Question  1.5</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6cw43UoBFcR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  2.5</name>
+			<description lang="und">Question  2.5</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6oBuBfIdVI9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question  1.6</name>
+			<description lang="und">Question  1.6</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5pKLQyYPz1T" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer1Overview</name>
+			<description lang="und">Customer1Overview</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6qhfrZNix1K" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer4Overview</name>
+			<description lang="und">Customer4Overview</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/6dZrg0uJltB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer2Overview</name>
+			<description lang="und">Customer2Overview</description>
+		</activity>
+		<activity id="http://5giXehTFNLD_course_id/5V8OLWZuoqA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Customer3Overview</name>
+			<description lang="und">Customer3Overview</description>
+		</activity>
+	</activities>
+</tincan>

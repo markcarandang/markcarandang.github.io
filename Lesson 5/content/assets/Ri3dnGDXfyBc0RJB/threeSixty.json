@@ -1,0 +1,49 @@
+{
+  "version": "3.19.16600.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6jreP0eAYJk",
+      "title": "Lesson 5 ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "69yXCXWBbM7",
+      "title": "The Health Conscious 1.1 ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6q0fdHui3OO",
+      "title": "The Chinese Consumer 1.1 ",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6TxbyHcYTYJ",
+      "title": "The Millennial 1.1 ",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6JGvhilsGp4",
+      "title": "Savvy Drinker 1.1 ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5lBDFjyFhtC",
+      "title": "Businessman 1.1 ",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

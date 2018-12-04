@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5Xc69DEL7Gs_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Quiz Lesson 4</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/5fvanz9C7jH" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Quiz Lesson 4</name>
+			<description lang="und">Quiz Lesson 4</description>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/6dJQ4A1PFVy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Guess That Wine!</name>
+			<description lang="und">Guess That Wine!</description>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/6Ogwre96sQc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/6Ogwre96sQc/69t4ZSJtE75" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5v8iju11fkI</correctResponsePattern>
+				<correctResponsePattern>choice_5vuaomwIN85</correctResponsePattern>
+				<correctResponsePattern>choice_5zWdqJcWmAI</correctResponsePattern>
+				<correctResponsePattern>choice_6CpMpYFKFDP</correctResponsePattern>
+				<correctResponsePattern>choice_5q3FuHwzfIG</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5v8iju11fkI</id>
+					<description lang="und">red</description>
+				</component>
+				<component>
+					<id>choice_69fFPxpETfu</id>
+					<description lang="und">white</description>
+				</component>
+				<component>
+					<id>choice_69wmqrAnLYF</id>
+					<description lang="und">sparkling</description>
+				</component>
+				<component>
+					<id>choice_5vuaomwIN85</id>
+					<description lang="und">old world</description>
+				</component>
+				<component>
+					<id>choice_6490XaO3b08</id>
+					<description lang="und">new world</description>
+				</component>
+				<component>
+					<id>choice_5zWdqJcWmAI</id>
+					<description lang="und">medoc</description>
+				</component>
+				<component>
+					<id>choice_6qco59MO8s6</id>
+					<description lang="und">cru</description>
+				</component>
+				<component>
+					<id>choice_5dNU3QuPLFB</id>
+					<description lang="und">chateau
+</description>
+				</component>
+				<component>
+					<id>choice_5yP0imHpXDN</id>
+					<description lang="und">2000</description>
+				</component>
+				<component>
+					<id>choice_6CpMpYFKFDP</id>
+					<description lang="und">2005</description>
+				</component>
+				<component>
+					<id>choice_6jXCwkoZDbO</id>
+					<description lang="und">2010</description>
+				</component>
+				<component>
+					<id>choice_6qZE8IlqSLU</id>
+					<description lang="und">5%</description>
+				</component>
+				<component>
+					<id>choice_5q3FuHwzfIG</id>
+					<description lang="und">13%</description>
+				</component>
+				<component>
+					<id>choice_5xQi9oFUxkh</id>
+					<description lang="und">20%</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/5Y94gQKOb0p" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/5Y94gQKOb0p/6pvHcR683mE" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5ljCiXp6eDO</correctResponsePattern>
+				<correctResponsePattern>choice_6d2cCQeSUzq</correctResponsePattern>
+				<correctResponsePattern>choice_68jE6poW7Fe</correctResponsePattern>
+				<correctResponsePattern>choice_6SX4VuyTmdn</correctResponsePattern>
+				<correctResponsePattern>choice_6DRWgEBLGjk</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5ljCiXp6eDO</id>
+					<description lang="und">red 1</description>
+				</component>
+				<component>
+					<id>choice_6d4Jh0d8179</id>
+					<description lang="und">white 1</description>
+				</component>
+				<component>
+					<id>choice_5bSjdDtdT4s</id>
+					<description lang="und">sparkling 1</description>
+				</component>
+				<component>
+					<id>choice_5eFG5GKuTk7</id>
+					<description lang="und">old world 1</description>
+				</component>
+				<component>
+					<id>choice_6d2cCQeSUzq</id>
+					<description lang="und">new world 1</description>
+				</component>
+				<component>
+					<id>choice_5qu7JpIRLya</id>
+					<description lang="und">cabernet</description>
+				</component>
+				<component>
+					<id>choice_6GTLWCQZZhZ</id>
+					<description lang="und">riesling</description>
+				</component>
+				<component>
+					<id>choice_68jE6poW7Fe</id>
+					<description lang="und">pinot noir</description>
+				</component>
+				<component>
+					<id>choice_6SX4VuyTmdn</id>
+					<description lang="und">2009</description>
+				</component>
+				<component>
+					<id>choice_5wShbbo609O</id>
+					<description lang="und">2012</description>
+				</component>
+				<component>
+					<id>choice_5VnuLbNsSl0</id>
+					<description lang="und">2015</description>
+				</component>
+				<component>
+					<id>choice_5e3EGwT4hxJ</id>
+					<description lang="und">13.4</description>
+				</component>
+				<component>
+					<id>choice_6DRWgEBLGjk</id>
+					<description lang="und">14.3</description>
+				</component>
+				<component>
+					<id>choice_5xaaSvJr2sO</id>
+					<description lang="und">16.1</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/5W2jGwZi4Zl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/5W2jGwZi4Zl/6AYKRi2XGDA" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6gQF9Ib6OEu</correctResponsePattern>
+				<correctResponsePattern>choice_5iHtHuMkd8F</correctResponsePattern>
+				<correctResponsePattern>choice_5n9KqkuA4bK</correctResponsePattern>
+				<correctResponsePattern>choice_5pffl0AvUgr</correctResponsePattern>
+				<correctResponsePattern>choice_6BxcrrinCwg</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5zCqvkd79nL</id>
+					<description lang="und">red 1</description>
+				</component>
+				<component>
+					<id>choice_6gQF9Ib6OEu</id>
+					<description lang="und">white 1</description>
+				</component>
+				<component>
+					<id>choice_6HZwmAkuT7y</id>
+					<description lang="und">sparkling 1</description>
+				</component>
+				<component>
+					<id>choice_5qgRXNcjYL8</id>
+					<description lang="und">old world 1</description>
+				</component>
+				<component>
+					<id>choice_5iHtHuMkd8F</id>
+					<description lang="und">new world 1</description>
+				</component>
+				<component>
+					<id>choice_6Pjrf2DZjpU</id>
+					<description lang="und">chateau</description>
+				</component>
+				<component>
+					<id>choice_5n9KqkuA4bK</id>
+					<description lang="und">columbia</description>
+				</component>
+				<component>
+					<id>choice_68r9nGLNGWI</id>
+					<description lang="und">2000</description>
+				</component>
+				<component>
+					<id>choice_5YcVK2HTOxG</id>
+					<description lang="und">2005</description>
+				</component>
+				<component>
+					<id>choice_5pffl0AvUgr</id>
+					<description lang="und">2011</description>
+				</component>
+				<component>
+					<id>choice_6LCZkdNTYRj</id>
+					<description lang="und">5</description>
+				</component>
+				<component>
+					<id>choice_6BxcrrinCwg</id>
+					<description lang="und">10</description>
+				</component>
+				<component>
+					<id>choice_6AnxsIkgEPk</id>
+					<description lang="und">20</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5Xc69DEL7Gs_course_id/6bDAffZR8Ik" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results</name>
+			<description lang="und">Results</description>
+		</activity>
+	</activities>
+</tincan>
